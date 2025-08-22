@@ -1,0 +1,29 @@
+{
+  "title": "Cracked Light",
+  "logline": "A chilled R&B reflection on loneliness and small losses after a phone screen shatters — the broken glass becomes a mirror for a quiet heartbreak.",
+  "meta": {
+    "genre": "R&B",
+    "mood": "Sad, chill",
+    "topic": "Broke my phone screen",
+    "language": "English",
+    "key": "D minor",
+    "tempo_bpm": 72,
+    "structure": "verse, chorus, verse, chorus, bridge, chorus"
+  },
+  "lyrics": {
+    "intro": "",
+    "verse_1": "I dropped my world onto the sidewalk\nGlass like a map with all the streets gone dark\nYou used to live inside that tiny blue light\nNow stars are crawling where your name used to spark",
+    "pre_chorus_1": "",
+    "chorus": "Broke my phone screen, all the faces are fractured\nEvery notification feels farther than before\nBroke my phone screen, and the silence answers\nCan’t swipe you back, can’t bring you through the door",
+    "verse_2": "I watch the cracks spread like the words we never said\nA thousand tiny edges echo in my head\nPictures skip and freeze at the corner of your smile\nI try to scroll past, but I stay there for a while",
+    "pre_chorus_2": "",
+    "bridge": "Maybe I mistook you for a signal, a light on the line\nMaybe replacing glass won’t fix the shape of time\nIf you ever pass by, don’t call — just stand in the rain\nI’d rather see you whole than in a broken frame",
+    "outro": ""
+  },
+  "musical_ideas": {
+    "chord_progression": "Verse: Dm7 | Bb | F | C  // Chorus: Dm7 | Gm7 | Bb | C  // Bridge: Bb | C | Dm7 | F | C",
+    "strumming_pattern": "soft broken 8ths (fingerpicked pocket): down - rest - down-up - down-up, laid-back behind the beat with light ghosted bass hits",
+    "melodic_hint": "Verse: re mi fa mi re do (lower register, intimate)  / Chorus: so la ti la so mi (lift to head voice on 'ti')  / Bridge: fa so la so fa re (wider leaps, resolve back to re)"
+  },
+  "production_notes": "Tempo 72 BPM, key D minor. Keep arrangement sparse and warm: electric piano (EP with slow attack) comping on beat, subtle Rhodes pad, warm sub bass holding root notes, brushed/snare rim with soft kick on 1 and light syncopation, and tasteful vinyl/room reverb for atmosphere. Lead vocal intimate and breathy in verses, add doubled harmony a third above on chorus lines; use light stacked falsetto on final chorus repeats. Use Dm7 and Gm7 voicings with color tones (9th or add11 in voicings), but not required in notation — keep chords labeled as in progression. For the bridge, strip back to voice and minimal keys for a moment of vulnerability, then bring pads and layered background harmonies back for the final chorus. Avoid heavy percussion or aggressive synths; aim for warm, late-night R&B minimalism."
+}
