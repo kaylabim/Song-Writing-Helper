@@ -12,3 +12,7 @@ Export compositions as:
 - Markdown (human-readable format, with optional exclusion of lyrics)
 - MIDI files generated from chord progressions
 
+Dependencies in requirements.txt
+
+See 'Cracked Light' for a demo! 
+
